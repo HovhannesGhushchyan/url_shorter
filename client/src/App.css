@@ -1,0 +1,23 @@
+/* Example styles for your URL Shortener */
+.App {
+    text-align: center;
+    margin-top: 50px;
+}
+
+input[type="url"] {
+    padding: 10px;
+    margin: 10px;
+    font-size: 16px;
+    width: 300px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.error {
+    color: red;
+    font-size: 14px;
+}
